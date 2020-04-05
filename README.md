@@ -1,7 +1,7 @@
 # Movie-Genre-Prediction
 
 
-The Aim of this project is to predict movie genres from movie description. The data used here is from kaggle's movie dataset(https://www.kaggle.com/rounakbanik/the-movies-dataset).
+The Aim of this project is to predict movie genres from movie plots. The data used here isa part of kaggle's movie dataset(https://www.kaggle.com/rounakbanik/the-movies-dataset).
 
 
  We have to predict the of the movie Genre based on title, tagline, original_title and overview fields.
